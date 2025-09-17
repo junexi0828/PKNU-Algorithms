@@ -5,6 +5,7 @@
 ## 📚 목차
 
 ### 자료구조 (Data Structures)
+
 - 배열 (Array)
 - 연결 리스트 (Linked List)
 - 스택 (Stack)
@@ -14,6 +15,7 @@
 - 해시 테이블 (Hash Table)
 
 ### 알고리즘 (Algorithms)
+
 - 정렬 알고리즘 (Sorting Algorithms)
   - 버블 정렬
   - 선택 정렬
@@ -60,18 +62,21 @@ PKNU-Algorithms/
 ## 🚀 실행 방법
 
 1. 저장소 클론
+
 ```bash
 git clone https://github.com/[username]/PKNU-Algorithms.git
 cd PKNU-Algorithms
 ```
 
 2. 가상환경 설정 (Conda)
+
 ```bash
 conda create -n algorithms python=3.13
 conda activate algorithms
 ```
 
 3. 필요한 패키지 설치
+
 ```bash
 pip install -r requirements.txt
 ```
@@ -95,5 +100,5 @@ pip install -r requirements.txt
 
 ---
 
-**부경대학교 컴퓨터공학과**  
+**부경대학교 컴퓨터공학과**
 **알고리즘과 자료구조 수업**
