@@ -1,0 +1,23 @@
+# 기본 패키지
+numpy>=1.24.0
+matplotlib>=3.6.0
+
+# 테스트 관련
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# 코드 품질
+black>=22.0.0
+flake8>=5.0.0
+
+# 주피터 노트북 (선택사항)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# 그래프 시각화
+networkx>=3.0.0
+graphviz>=0.20.0
+
+# 성능 측정
+memory-profiler>=0.60.0
+line-profiler>=4.0.0
